@@ -14,7 +14,7 @@
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
-        <scope>sn_mid_test</scope>
+        <scope></scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>sn_mid_test</source>
