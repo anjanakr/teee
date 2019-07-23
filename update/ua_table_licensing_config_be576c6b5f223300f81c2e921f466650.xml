@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>sn_mid_test_test</name>
+        <name>sn_mid_test_test2</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-07-11 17:06:52</sys_created_on>
-        <sys_id>f938cbc65f6e3300f81c2e921f4666a4</sys_id>
+        <sys_created_on>2019-07-15 21:14:58</sys_created_on>
+        <sys_id>be576c6b5f223300f81c2e921f466650</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sn_mid_test_test</sys_name>
+        <sys_name>sn_mid_test_test2</sys_name>
         <sys_package display_value="mid_test" source="sn_mid_test">5d26a8ca5f123300f81c2e921f46664a</sys_package>
         <sys_policy/>
         <sys_scope display_value="mid_test">5d26a8ca5f123300f81c2e921f46664a</sys_scope>
-        <sys_update_name>ua_table_licensing_config_f938cbc65f6e3300f81c2e921f4666a4</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_be576c6b5f223300f81c2e921f466650</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-11 17:06:52</sys_updated_on>
+        <sys_updated_on>2019-07-15 21:14:58</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

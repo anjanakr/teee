@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="test" language="en" table="sn_mid_test_test">
+    <sys_documentation element="sys" label="Sys" language="en" table="sn_mid_test_test2">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>sys</element>
             <help/>
             <hint/>
-            <label>test</label>
+            <label>Sys</label>
             <language>en</language>
-            <name>sn_mid_test_test</name>
-            <plural>tests</plural>
+            <name>sn_mid_test_test2</name>
+            <plural>Sys</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-11 17:06:52</sys_created_on>
-            <sys_id>e9472c2b5f223300f81c2e921f4666bc</sys_id>
+            <sys_created_on>2019-07-15 21:14:58</sys_created_on>
+            <sys_id>b6576c6b5f223300f81c2e921f46663a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>test</sys_name>
+            <sys_name>Sys</sys_name>
             <sys_package display_value="mid_test" source="sn_mid_test">5d26a8ca5f123300f81c2e921f46664a</sys_package>
             <sys_policy/>
             <sys_scope display_value="mid_test">5d26a8ca5f123300f81c2e921f46664a</sys_scope>
-            <sys_update_name>sys_documentation_sn_mid_test_test__en</sys_update_name>
+            <sys_update_name>sys_documentation_sn_mid_test_test2_sys_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-11 17:06:52</sys_updated_on>
+            <sys_updated_on>2019-07-15 21:14:58</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

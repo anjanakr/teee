@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="sn_mid_test_test">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="test" table="sn_mid_test_test3">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>test</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,15 +27,15 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>test</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>sn_mid_test_test</name>
+        <name>sn_mid_test_test3</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-07-11 17:06:52</sys_created_on>
-        <sys_id>a9472c2b5f223300f81c2e921f4666b9</sys_id>
+        <sys_created_on>2019-07-23 14:49:09</sys_created_on>
+        <sys_id>cbbb140e5f723300f81c2e921f4666fc</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sn_mid_test_test</sys_name>
+        <sys_name>test</sys_name>
         <sys_package display_value="mid_test" source="sn_mid_test">5d26a8ca5f123300f81c2e921f46664a</sys_package>
         <sys_policy/>
         <sys_scope display_value="mid_test">5d26a8ca5f123300f81c2e921f46664a</sys_scope>
-        <sys_update_name>sys_dictionary_sn_mid_test_test_NULL</sys_update_name>
-        <sys_updated_by>MidServer</sys_updated_by>
-        <sys_updated_on>2019-07-22 21:29:03</sys_updated_on>
+        <sys_update_name>sys_dictionary_sn_mid_test_test3_test</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-23 14:49:09</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
