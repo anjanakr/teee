@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-30 14:41:34</sys_created_on>
+        <sys_id>a22dd0585f033300f81c2e921f466627</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_mid_test_test_table.sn_mid_test.test_table_user</sys_name>
+        <sys_package display_value="mid_test" source="sn_mid_test">5d26a8ca5f123300f81c2e921f46664a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mid_test">5d26a8ca5f123300f81c2e921f46664a</sys_scope>
+        <sys_security_acl display_value="sn_mid_test_test_table">662dd0585f033300f81c2e921f466624</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a22dd0585f033300f81c2e921f466627</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-30 14:41:34</sys_updated_on>
+        <sys_user_role display_value="sn_mid_test.test_table_user" name="sn_mid_test.test_table_user">d62dd0585f033300f81c2e921f466604</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
